@@ -1,0 +1,77 @@
+Channel,BookNumber,S3Title,BookTitle,BookDescription,Chapters
+Law,1,Genesis,The First Book of Moses Called Genesis,"Describes the creation; gives the history of the old world, and of the steps taken by God toward the formation of theocracy.",50
+Law,2,Exodus,The Second Book of Moses Called Exodus,The history of Israel's departure from Egypt; the giving of the law; the tabernacle.,40
+Law,3,Leviticus,The Third Book of Moses Called Leviticus,The ceremonial law.,27
+Law,4,Numbers,The Fourth Book of Moses Called Numbers,The census of the people; the story of the wanderings in the wilderness.,36
+Law,5,Deuteronomy,The Fifth Book of Moses Called Deuteronomy,The law rehearsed; the death of Moses.,34
+Old Testament Narrative,6,Joshua,The Book of Joshua,The story of the conquest and partition of Canaan.,24
+Old Testament Narrative,7,Judges,The Book of Judges,The history of the nation from Joshua to Samson.,21
+Old Testament Narrative,8,Ruth,The Book of Ruth,The story of the ancestors of the royal family of Judah.,4
+Old Testament Narrative,9,1Samuel,The First Book of Samuel,The story of the nation during the judgeship of Samuel and the reign of Saul.,31
+Old Testament Narrative,10,2Samuel,The Second Book of Samuel,Story of the reign of David.,24
+Old Testament Narrative,11,1Kings,The First Book of Kings,"The books of Kings form only one book in the Hebrew MSS. They contain the history of the nation from David's death and Solomon's accession to the destruction of the kingdom of Judah and the desolation of Jerusalem, with a supplemental notice of the liberation of Jehoiachin from his prison at Babylon, twenty-six years later; they comprehend the whole time of the Israelitish monarchy, exclusive of the reigns of Saul and David.",22
+Old Testament Narrative,12,2Kings,The Second Book of Kings,"The books of Kings form only one book in the Hebrew MSS. They contain the history of the nation from David's death and Solomon's accession to the destruction of the kingdom of Judah and the desolation of Jerusalem, with a supplemental notice of the liberation of Jehoiachin from his prison at Babylon, twenty-six years later; they comprehend the whole time of the Israelitish monarchy, exclusive of the reigns of Saul and David.",25
+Old Testament Narrative,13,1Chronicles,The First Book of Chronicles,The Books of the Chronicles are so called as being the record made by the appointed historiographers of the kingdoms of Judah and Israel; they are the official histories of those kingdoms.,29
+Old Testament Narrative,14,2Chronicles,The Second Book of Chronicles,The Books of the Chronicles are so called as being the record made by the appointed historiographers of the kingdoms of Judah and Israel; they are the official histories of those kingdoms.,36
+Old Testament Narrative,15,Ezra,The Book of Ezra,"The story of the return of the Jews from the Babylonish captivity, and of the rebuilding of the temple.
+
+",10
+Old Testament Narrative,16,Nehemiah,The Book of Nehemiah,"A further account of the rebuilding of the temple and city, and of the obstacles encountered and overcome.",13
+Old Testament Narrative,17,Esther,The Book of Esther,The story of a Jewess who becomes queen of Persia and saves the Jewish people from destruction.,10
+Wisdom Literature,18,Job,The Book of Job,The story of the trials and patience of a holy man of Edom.,42
+Wisdom Literature,19,Psalms,The Book of Psalms,A collection of sacred poems intended for use in the worship of Jehovah. Chiefly the productions of David.,150
+Wisdom Literature,20,Proverbs,The Book of Proverbs,The wise sayings of Solomon.,31
+Wisdom Literature,21,Ecclesiastes,The Book of Ecclesiastes,A poem respecting the vanity of earthly things.,12
+Wisdom Literature,22,SongSolomon,The Song of Solomon,A series of love poems.,8
+Major Prophets,23,Isaiah,The Book of Isaiah,Prophecies respecting Christ and his kingdom.,66
+Major Prophets,24,Jeremiah,The Book of Jeremiah,"Prophecies announcing the captivity of Judah, its sufferings, and the final overthrow of its enemies.",52
+Major Prophets,25,Lamentations,The Book of Lamentations,The utterance of Jeremiah's sorrow upon the capture of Jerusalem and the destruction of the temple.,5
+Major Prophets,26,Ezekiel,The Book of Ezekiel,Messages of warning and comfort to the Jews in their captivity.,48
+Major Prophets,27,Daniel,The Book of Daniel,"A narrative of some of the occurrences of the captivity, and a series of prophecies concerning Christ.
+
+",12
+Minor Prophets,28,Hosea,The Book of Hosea,Prophecies relating to Christ and the latter days.,14
+Minor Prophets,29,Joel,The Book of Joel,"Prediction of woes upon Judah, and of the favor with which God will receive the penitent people.",3
+Minor Prophets,30,Amos,The Book of Amos,"Prediction that Israel and other neighboring nations will be punished by conquerors from the north, and of the fulfillment of the Messiah's kingdom.
+
+",9
+Minor Prophets,31,Obadiah,The Book of Obadiah,Prediction of the desolation of Edom.,1
+Minor Prophets,32,Jonah,The Book of Jonah,Prophecies relating to Nineveh.,4
+Minor Prophets,33,Micah,The Book of Micah,"Predictions relating to the invasions of Shalmaneser and Sennacherib, the Babylonish captivity, the establishment of a theocratic kingdom in Jerusalem, and the birth of the Messiah in Bethlehem.",7
+Minor Prophets,34,Nahum,The Book of Nahum,Prediction of the downfall of Assyria.,3
+Minor Prophets,35,Habakkuk,The Book of Habakkuk,A prediction of the doom of the Chaldeans.,3
+Minor Prophets,36,Zephaniah,The Book of Zephaniah,A prediction of the overthrow of Judah for its idolatry and wickedness.,3
+Minor Prophets,37,Haggai,The Book of Haggai,Prophecies concerning the rebuilding of the temple.,2
+Minor Prophets,38,Zechariah,The Book of Zechariah,Prophecies relating to the rebuilding of the temple and the Messiah.,14
+Minor Prophets,39,Malachi,The Book of Malachi,Prophecies relating to the calling of the Gentiles and the coming of Christ.,4
+New Testament Narrative,40,Matthew,The Gospel According to Matthew,A brief history of the life of Christ.,28
+New Testament Narrative,41,Mark,The Gospel According to Mark,"A brief history of the life of Christ, supplying some incidents omitted by St. Matthew.
+
+",16
+New Testament Narrative,42,Luke,The Gospel According to Luke,"The history of the life of Christ, with especial reference to his most important acts and discourses.",24
+New Testament Narrative,43,John,The Gospel According to John,"The life of Christ, giving important discourses not related by the other evangelists.",21
+New Testament Narrative,44,Acts,The Acts of the Apostles,The history of the labors of the apostles and of the foundation of the Christian Church.,28
+Pauline Epistles,45,Romans,The Epistle of Paul to the Romans,A treatise by St. Paul on the doctrine of justification by Christ.,16
+Pauline Epistles,46,1Corinthians,The First Epistle of Paul to the Corinthians,"A letter from St. Paul to the Corinthians, correcting errors into which they had fallen.",16
+Pauline Epistles,47,2Corinthians,The Second Epistle of Paul to the Corinthians,"St. Paul confirms his disciples in their faith, and vindicates his own character.",13
+Pauline Epistles,48,Galatians,The Epistle of Paul to the Galatians,"St. Paul maintains that we are justified by faith, and not by rites.",6
+Pauline Epistles,49,Ephesians,The Epistle of Paul to the Ephesians,A treatise by St. Paul on the power of divine grace.,6
+Pauline Epistles,50,Phillipians,The Epistle of Paul to the Philippians,"St. Paul sets forth the beauty of Christian kindness.
+
+",4
+Pauline Epistles,51,Colossians,The Epistle of Paul to the Colossians,"St. Paul warns his disciples against errors, and exhorts to certain duties.",4
+Pauline Epistles,52,1Thessalonians,The First Epistle of Paul to the Thessalonians,St. Paul exhorts his disciples to continue in the faith and in holy conversation.,5
+Pauline Epistles,53,2Thessalonians,The Second Epistle of Paul to the Thessalonians,St. Paul corrects an error concerning the speedy coming of Christ the second time.,3
+Pauline Epistles,54,1Timothy,The First Epistle of Paul to Timothy,"St. Paul instructs Timothy in the duty of a pastor, and encourages him in the work of the ministry.",6
+Pauline Epistles,55,2Timothy,The Second Epistle of Paul to Timothy,"St. Paul instructs Timothy in the duty of a pastor, and encourages him in the work of the ministry.",4
+Pauline Epistles,56,Titus,The Epistle of Paul to Titus,Epistle to Titus. St. Paul encourages Titus in the performance of his ministerial duties.,3
+Pauline Epistles,57,Philemon,The Epistle of Paul to Philemon,An appeal to a converted master to receive a converted escaped slave with kindness.,1
+General Epistles,58,Hebrews,The Epistle to the Hebrews,St. Paul maintains that Christ is the substance of the ceremonial law.,13
+General Epistles,59,James,The General Epistle of James,A treatise on the efficacy of faith united with good works.,5
+General Epistles,60,1Peter,The First Epistle of Peter,"Exhortations to a Christian life, with various warnings and predictions.",5
+General Epistles,61,2Peter,The Second Epistle of Peter,"Exhortations to a Christian life, with various warnings and predictions.",3
+General Epistles,62,1John,The First Epistle of John,"Respecting the person of our Lord, and an exhortation to Christian love and conduct.",5
+General Epistles,63,2John,The Second Epistle of John,St. John warns a converted lady against false teachers.,1
+General Epistles,64,3John,The Third Epistle of John,"A letter to Gaius, praising him for his hospitality.",1
+General Epistles,65,Jude,The Epistle of Jude,Warnings against deceivers.,1
+Apocalyptic Epistle,66,Revelation,The Book of Revelation (or The Apocalypse of John),The future of the Church foretold.,22
